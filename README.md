@@ -7,7 +7,7 @@ Hi there! I'm Aditya, a passionate Full-Stack Developer skilled in building dyna
 ## 🚀 Tech Stack
 
 - 💻 Frontend: `React.js`, `Next.js`, `Bootstrap`, `Tailwind CSS`, `JavaScript`, `HTML5`, `CSS3`
-- 🔙 Backend: `PHP`, `Spring Boot`, `Java`, `Node.js` (basic)
+- 🔙 Backend: `PHP`, `Spring Boot`, `Java`,`C#`, `Node.js` (basic)
 - 🗄️ Database: `MySQL`, `MongoDB` (basic)
 - ☁️ Others: `AWS (Beginner)`, `CPanel`, `Git`, `GitHub`, `Postman`, `Firebase`
 - 🔒 Interests: Cybersecurity, Cloud Computing, Terminal UI/UX Designs
