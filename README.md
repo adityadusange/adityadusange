@@ -39,7 +39,7 @@ Hi there! I'm Aditya, a passionate Full-Stack Developer skilled in building dyna
 
 ## 📫 Connect With Me
 
-- Email: [adityadusange25@gmail.com](mailto:adityadusange25@gmail.com)
+- Email: [adityadusange11@gmail.com](mailto:adityadusange11@gmail.com)
 - LinkedIn: [linkedin.com/in/aditya-dusange](https://www.linkedin.com/in/aditya-dusange)
 - Portfolio: *(coming soon)*
 
